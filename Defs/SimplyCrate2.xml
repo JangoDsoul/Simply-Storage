@@ -52,7 +52,7 @@
     <stuffCategories>
       <li>Woody</li>
     </stuffCategories>
-    <costStuffCount>10</costStuffCount>
+    <costStuffCount>30</costStuffCount>
     <comps>
       <li Class="LWM.DeepStorage.Properties" >
         <minNumberStacks>1</minNumberStacks>
@@ -149,13 +149,13 @@
     <castEdgeShadows>true</castEdgeShadows>
     <size>(2,2)</size>
     <statBases>
-      <MaxHitPoints>30</MaxHitPoints>
+      <MaxHitPoints>100</MaxHitPoints>
       <WorkToBuild>600</WorkToBuild>
       <Flammability>1</Flammability>	  
       <Mass>10</Mass>
     </statBases>
     <costList>
-      <Cloth>35</Cloth>
+      <Cloth>250</Cloth>
     </costList>
     <comps>
       <li Class="LWM.DeepStorage.Properties" >
@@ -310,7 +310,7 @@
     <castEdgeShadows>true</castEdgeShadows>
     <size>(5,3)</size>
     <statBases>
-      <MaxHitPoints>30</MaxHitPoints>
+      <MaxHitPoints>1000</MaxHitPoints>
       <WorkToBuild>600</WorkToBuild>
 	  <Flammability>2</Flammability>  
       <Mass>100</Mass>
@@ -440,11 +440,11 @@
     <stuffCategories>
       <li>Woody</li>	  
     </stuffCategories>
-    <costStuffCount>35</costStuffCount>
+    <costStuffCount>100</costStuffCount>
     <comps>
       <li Class="LWM.DeepStorage.Properties" >
-        <minNumberStacks>1</minNumberStacks>
-        <maxNumberStacks>15</maxNumberStacks> <!-- In-game 10 -->
+        <minNumberStacks>50</minNumberStacks>
+        <maxNumberStacks>20</maxNumberStacks> 
         <timeStoringTakes>120</timeStoringTakes>
         <showContents>true</showContents>
 		<overlayType>None</overlayType>
@@ -483,7 +483,7 @@
     <comps>
       <li Class="LWM.DeepStorage.Properties" >
         <minNumberStacks>1</minNumberStacks>
-        <maxNumberStacks>15</maxNumberStacks> <!-- In-game 10 -->
+        <maxNumberStacks>25</maxNumberStacks> 
         <timeStoringTakes>120</timeStoringTakes>
         <showContents>false</showContents>
 		<overlayType>None</overlayType>
@@ -496,7 +496,7 @@
   <ThingDef ParentName="JDStorageBase" >
     <defName>JDS_Large_A_Pallet</defName>
     <label>Large Pallet A</label>
-    <description>...</description>
+    <description>...</description>		
     <graphicData>
       <texPath>Things/LargePalletStuff/Large_Pallet_A</texPath>
       <graphicClass>Graphic_Multi</graphicClass> 
@@ -508,7 +508,7 @@
     <size>(2,2)</size>
 	<rotatable>false</rotatable>
     <statBases>
-      <MaxHitPoints>50</MaxHitPoints>
+      <MaxHitPoints>120</MaxHitPoints>
       <WorkToBuild>600</WorkToBuild>
       <Flammability>3</Flammability>	  
       <Mass>5</Mass>
@@ -516,11 +516,11 @@
     <stuffCategories>
       <li>Woody</li>	  
     </stuffCategories>
-    <costStuffCount>35</costStuffCount>
+    <costStuffCount>260</costStuffCount>
     <comps>
       <li Class="LWM.DeepStorage.Properties" >
         <minNumberStacks>1</minNumberStacks>
-        <maxNumberStacks>15</maxNumberStacks> <!-- In-game 10 -->
+        <maxNumberStacks>24</maxNumberStacks> <!-- In-game 10 -->
         <timeStoringTakes>120</timeStoringTakes>
         <showContents>false</showContents>
 		<overlayType>None</overlayType>
@@ -545,7 +545,7 @@
     <size>(2,2)</size>
 	<rotatable>false</rotatable>
     <statBases>
-      <MaxHitPoints>50</MaxHitPoints>
+      <MaxHitPoints>120</MaxHitPoints>
       <WorkToBuild>600</WorkToBuild>
       <Flammability>3</Flammability>	  
       <Mass>5</Mass>
@@ -553,17 +553,17 @@
     <stuffCategories>
       <li>Woody</li>	  
     </stuffCategories>
-    <costStuffCount>35</costStuffCount>
+    <costStuffCount>260</costStuffCount>
     <comps>
       <li Class="LWM.DeepStorage.Properties" >
         <minNumberStacks>1</minNumberStacks>
-        <maxNumberStacks>15</maxNumberStacks> <!-- In-game 10 -->
+        <maxNumberStacks>24</maxNumberStacks> <!-- In-game 10 -->
         <timeStoringTakes>120</timeStoringTakes>
         <showContents>false</showContents>
 		<overlayType>None</overlayType>
       </li>
     </comps>
-  </ThingDef>    
+  </ThingDef>   
   
 	<!-- ==================== Large Pallet C ==================== -->
 
@@ -582,7 +582,7 @@
     <size>(2,2)</size>
 	<rotatable>false</rotatable>
     <statBases>
-      <MaxHitPoints>50</MaxHitPoints>
+      <MaxHitPoints>120</MaxHitPoints>
       <WorkToBuild>600</WorkToBuild>
       <Flammability>3</Flammability>	  
       <Mass>5</Mass>
@@ -590,17 +590,17 @@
     <stuffCategories>
       <li>Woody</li>	  
     </stuffCategories>
-    <costStuffCount>35</costStuffCount>
+    <costStuffCount>260</costStuffCount>
     <comps>
       <li Class="LWM.DeepStorage.Properties" >
         <minNumberStacks>1</minNumberStacks>
-        <maxNumberStacks>15</maxNumberStacks> <!-- In-game 10 -->
+        <maxNumberStacks>24</maxNumberStacks> <!-- In-game 10 -->
         <timeStoringTakes>120</timeStoringTakes>
         <showContents>false</showContents>
 		<overlayType>None</overlayType>
       </li>
     </comps>
-  </ThingDef>     
+  </ThingDef>   
   
 	<!-- ==================== Large Pallet D ==================== -->
 
@@ -619,7 +619,7 @@
     <size>(2,2)</size>
 	<rotatable>false</rotatable>
     <statBases>
-      <MaxHitPoints>30</MaxHitPoints>
+      <MaxHitPoints>120</MaxHitPoints>
       <WorkToBuild>600</WorkToBuild>
       <Flammability>3</Flammability>	  
       <Mass>5</Mass>
@@ -627,17 +627,17 @@
     <stuffCategories>
       <li>Woody</li>	  
     </stuffCategories>
-    <costStuffCount>35</costStuffCount>
+    <costStuffCount>260</costStuffCount>
     <comps>
       <li Class="LWM.DeepStorage.Properties" >
         <minNumberStacks>1</minNumberStacks>
-        <maxNumberStacks>15</maxNumberStacks> <!-- In-game 10 -->
+        <maxNumberStacks>24</maxNumberStacks> <!-- In-game 10 -->
         <timeStoringTakes>120</timeStoringTakes>
         <showContents>false</showContents>
 		<overlayType>None</overlayType>
       </li>
     </comps>
-  </ThingDef>       
+  </ThingDef>    
   
 	<!-- ==================== Large Pallet E ==================== -->
 
@@ -656,19 +656,19 @@
     <size>(2,2)</size>
 	<rotatable>false</rotatable>
     <statBases>
-      <MaxHitPoints>30</MaxHitPoints>
+      <MaxHitPoints>120</MaxHitPoints>
       <WorkToBuild>600</WorkToBuild>
-	  <Flammability>3</Flammability>  
+      <Flammability>3</Flammability>	  
       <Mass>5</Mass>
     </statBases>
     <stuffCategories>
       <li>Woody</li>	  
     </stuffCategories>
-    <costStuffCount>35</costStuffCount>
+    <costStuffCount>260</costStuffCount>
     <comps>
       <li Class="LWM.DeepStorage.Properties" >
         <minNumberStacks>1</minNumberStacks>
-        <maxNumberStacks>15</maxNumberStacks> <!-- In-game 10 -->
+        <maxNumberStacks>24</maxNumberStacks> <!-- In-game 10 -->
         <timeStoringTakes>120</timeStoringTakes>
         <showContents>false</showContents>
 		<overlayType>None</overlayType>
@@ -692,7 +692,7 @@
     <castEdgeShadows>true</castEdgeShadows>
     <size>(1,1)</size>
     <statBases>
-      <MaxHitPoints>30</MaxHitPoints>
+      <MaxHitPoints>100</MaxHitPoints>
       <WorkToBuild>600</WorkToBuild>
       <Mass>5</Mass>
     </statBases>
@@ -700,7 +700,7 @@
       <li>Metallic</li>
       <li>Stony</li>		  
     </stuffCategories>
-    <costStuffCount>25</costStuffCount>
+    <costStuffCount>50</costStuffCount>
     <comps>
       <li Class="LWM.DeepStorage.Properties" >
         <minNumberStacks>1</minNumberStacks>
@@ -787,7 +787,7 @@
       <Mass>50</Mass>
     </statBases>
      <costList>
-      <Steel>100</Steel>
+      <Steel>250</Steel>
     </costList>
     <comps>
       <li Class="LWM.DeepStorage.Properties" >
@@ -823,7 +823,7 @@
       <Mass>50</Mass>
     </statBases>
      <costList>
-      <Steel>100</Steel>
+      <Steel>250</Steel>
     </costList>
     <comps>
       <li Class="LWM.DeepStorage.Properties" >
@@ -968,7 +968,7 @@
     <castEdgeShadows>true</castEdgeShadows>
     <size>(1,1)</size>
     <statBases>
-      <MaxHitPoints>200</MaxHitPoints>
+      <MaxHitPoints>1000</MaxHitPoints>
       <WorkToBuild>100</WorkToBuild>
       <Mass>30</Mass>
     </statBases>
@@ -976,11 +976,11 @@
       <li>Metallic</li>
       <li>Stony</li>		  
     </stuffCategories>
-    <costStuffCount>80</costStuffCount>
+    <costStuffCount>120</costStuffCount>
     <comps>
       <li Class="LWM.DeepStorage.Properties" >
         <minNumberStacks>1</minNumberStacks>
-        <maxNumberStacks>50</maxNumberStacks> <!-- In-game 10 -->
+        <maxNumberStacks>6</maxNumberStacks> <!-- In-game 10 -->
         <timeStoringTakes>120</timeStoringTakes>
         <showContents>false</showContents>
 		<overlayType>None</overlayType>
@@ -1017,11 +1017,11 @@
       <li>Metallic</li>
       <li>Stony</li>		  
     </stuffCategories>
-    <costStuffCount>60</costStuffCount>	
+    <costStuffCount>135</costStuffCount>	
     <comps>
       <li Class="LWM.DeepStorage.Properties" >
         <minNumberStacks>2</minNumberStacks>
-        <maxNumberStacks>20</maxNumberStacks>
+        <maxNumberStacks>10</maxNumberStacks>
         <timeStoringTakes>120</timeStoringTakes>
         <showContents>false</showContents>
 		<overlayType>None</overlayType>
@@ -1058,11 +1058,11 @@
       <li>Metallic</li>
       <li>Stony</li>		  
     </stuffCategories>
-    <costStuffCount>60</costStuffCount>		
+    <costStuffCount>135</costStuffCount>		
     <comps>
       <li Class="LWM.DeepStorage.Properties" >
         <minNumberStacks>2</minNumberStacks>
-        <maxNumberStacks>20</maxNumberStacks>
+        <maxNumberStacks>10</maxNumberStacks>
         <timeStoringTakes>120</timeStoringTakes>
         <showContents>false</showContents>
 		<overlayType>None</overlayType>
@@ -1090,18 +1090,18 @@
     <size>(4,4)</size>
 	  <rotatable>false</rotatable>		
     <statBases>
-      <MaxHitPoints>250</MaxHitPoints>
+      <MaxHitPoints>1250</MaxHitPoints>
       <WorkToBuild>2000</WorkToBuild>
       <Flammability>0.1</Flammability>
       <Mass>50</Mass>
     </statBases>
     <costList>
-      <Steel>250</Steel>
+      <Steel>1000</Steel>
     </costList>
     <comps>
       <li Class="LWM.DeepStorage.Properties" >
         <minNumberStacks>2</minNumberStacks>
-        <maxNumberStacks>100</maxNumberStacks>
+        <maxNumberStacks>50</maxNumberStacks>
         <timeStoringTakes>120</timeStoringTakes>
         <showContents>false</showContents>
 		<overlayType>None</overlayType>
@@ -1170,7 +1170,7 @@
     <castEdgeShadows>true</castEdgeShadows>
     <size>(2,1)</size>
     <statBases>
-      <MaxHitPoints>30</MaxHitPoints>
+      <MaxHitPoints>100</MaxHitPoints>
       <WorkToBuild>600</WorkToBuild>
       <Flammability>1</Flammability>
       <Mass>15</Mass>
@@ -1180,11 +1180,11 @@
       <li>Stony</li>		
       <li>Metallic</li>	  
     </stuffCategories>
-    <costStuffCount>50</costStuffCount>
+    <costStuffCount>90</costStuffCount>
     <comps>
       <li Class="LWM.DeepStorage.Properties" >
         <minNumberStacks>1</minNumberStacks>
-        <maxNumberStacks>30</maxNumberStacks> <!-- In-game 10 -->
+        <maxNumberStacks>5</maxNumberStacks> 
         <timeStoringTakes>120</timeStoringTakes>
         <showContents>false</showContents>
 		<overlayType>None</overlayType>
@@ -1212,7 +1212,7 @@
     <castEdgeShadows>true</castEdgeShadows>
     <size>(1,1)</size>
     <statBases>
-      <MaxHitPoints>30</MaxHitPoints>
+      <MaxHitPoints>100</MaxHitPoints>
       <WorkToBuild>600</WorkToBuild>
       <Mass>15</Mass>
     </statBases>
@@ -1220,7 +1220,7 @@
       <li>Stony</li>		
       <li>Metallic</li>	   
     </stuffCategories>
-    <costStuffCount>50</costStuffCount>
+    <costStuffCount>80</costStuffCount>
     <comps>
       <li Class="LWM.DeepStorage.Properties" >
         <minNumberStacks>1</minNumberStacks>
@@ -1230,6 +1230,17 @@
 		<overlayType>None</overlayType>
       </li>
     </comps>
+    <!--building>
+      <fixedStorageSettings>
+        <filter>
+         <thingDefs>
+          <li>Beer</li>
+          <li>GoJuice</li>
+		  <li>Neutroamine</li>
+         </thingDefs>
+        </filter>		
+      </fixedStorageSettings> 
+    </building-->		
 	<researchPrerequisites>
       <li>Machining</li>
     </researchPrerequisites>		
@@ -1252,7 +1263,7 @@
     <castEdgeShadows>true</castEdgeShadows>
     <size>(1,1)</size>
     <statBases>
-      <MaxHitPoints>30</MaxHitPoints>
+      <MaxHitPoints>100</MaxHitPoints>
       <WorkToBuild>600</WorkToBuild>
       <Mass>15</Mass>
     </statBases>
@@ -1270,6 +1281,15 @@
 		<overlayType>None</overlayType>
       </li>
     </comps>
+    <!--building>
+      <fixedStorageSettings>
+        <filter>
+         <thingDefs>
+          <li>GoJuice</li>
+         </thingDefs>
+        </filter>		
+      </fixedStorageSettings> 
+    </building-->		
 	<researchPrerequisites>
       <li>Machining</li>
     </researchPrerequisites>		
@@ -1317,7 +1337,7 @@
   <ThingDef ParentName="JDStorageBase" >
     <defName>JDS_1ResourcesCrate</defName>
     <label>ResourcesCrate 1</label>
-    <description>...</description>
+    <description>Can Storage up to 10 Stack of WoodLog</description>
     <graphicData>
       <texPath>Things/ResourcesCrate/ResourcesCrate1</texPath>
       <graphicClass>Graphic_Multi</graphicClass>
@@ -1361,7 +1381,7 @@
   <ThingDef ParentName="JDStorageBase" >
     <defName>JDS_2ResourcesCrate</defName>
     <label>ResourcesCrate 2</label>
-    <description>...</description>
+    <description>Can Storage up to 10 Stack of Steel</description>	
     <graphicData>
       <texPath>Things/ResourcesCrate/ResourcesCrate2</texPath>
       <graphicClass>Graphic_Multi</graphicClass>
@@ -1405,7 +1425,7 @@
   <ThingDef ParentName="JDStorageBase" >
     <defName>JDS_3ResourcesCrate</defName>
     <label>ResourcesCrate 3</label>
-    <description>...</description>
+    <description>Can Storage up to 10 Stack of Textiles</description>	
     <graphicData>
       <texPath>Things/ResourcesCrate/ResourcesCrate3</texPath>
       <graphicClass>Graphic_Multi</graphicClass>
@@ -1449,7 +1469,7 @@
   <ThingDef ParentName="JDStorageBase" >
     <defName>JDS_4ResourcesCrate</defName>
     <label>ResourcesCrate 4</label>
-    <description>...</description>
+    <description>Can Storage up to 10 Stack of Leather</description>	
     <graphicData>
       <texPath>Things/ResourcesCrate/ResourcesCrate4</texPath>
       <graphicClass>Graphic_Multi</graphicClass>
@@ -1493,7 +1513,7 @@
   <ThingDef ParentName="JDStorageBase" >
     <defName>JDS_5ResourcesCrate</defName>
     <label>ResourcesCrate 5</label>
-    <description>...</description>
+    <description>Can Storage up to 10 Stack of Component</description>	
     <graphicData>
       <texPath>Things/ResourcesCrate/ResourcesCrate5</texPath>
       <graphicClass>Graphic_Multi</graphicClass>
@@ -1537,7 +1557,7 @@
   <ThingDef ParentName="JDStorageBase" >
     <defName>JDS_6ResourcesCrate</defName>
     <label>ResourcesCrate 6</label>
-    <description>...</description>
+    <description>Can Storage up to 10 Stack of Advanced Component</description>	
     <graphicData>
       <texPath>Things/ResourcesCrate/ResourcesCrate6</texPath>
       <graphicClass>Graphic_Multi</graphicClass>
@@ -1581,7 +1601,7 @@
   <ThingDef ParentName="JDStorageBase" >
     <defName>JDS_7ResourcesCrate</defName>
     <label>ResourcesCrate 7</label>
-    <description>...</description>
+    <description>Can Storage up to 10 Stack of Uranium</description>	
     <graphicData>
       <texPath>Things/ResourcesCrate/ResourcesCrate7</texPath>
       <graphicClass>Graphic_Multi</graphicClass>
@@ -1625,7 +1645,7 @@
   <ThingDef ParentName="JDStorageBase" >
     <defName>JDS_8ResourcesCrate</defName>
     <label>ResourcesCrate 8</label>
-    <description>...</description>
+    <description>Can Storage up to 10 Stack of Gold</description>
     <graphicData>
       <texPath>Things/ResourcesCrate/ResourcesCrate8</texPath>
       <graphicClass>Graphic_Multi</graphicClass>
@@ -1669,7 +1689,7 @@
   <ThingDef ParentName="JDStorageBase" >
     <defName>JDS_9ResourcesCrate</defName>
     <label>ResourcesCrate 9</label>
-    <description>...</description>
+    <description>Can Storage up to 10 Stack of Jade</description>
     <graphicData>
       <texPath>Things/ResourcesCrate/ResourcesCrate9</texPath>
       <graphicClass>Graphic_Multi</graphicClass>
@@ -1713,7 +1733,7 @@
   <ThingDef ParentName="JDStorageBase" >
     <defName>JDS_10ResourcesCrate</defName>
     <label>ResourcesCrate 10</label>
-    <description>...</description>
+    <description>Can Storage up to 10 Stack of Plasteel</description>
     <graphicData>
       <texPath>Things/ResourcesCrate/ResourcesCrate10</texPath>
       <graphicClass>Graphic_Multi</graphicClass>
@@ -1778,7 +1798,7 @@
       <li>Metallic</li>
       <li>Stony</li>		  
     </stuffCategories>
-    <costStuffCount>50</costStuffCount>	
+    <costStuffCount>1000</costStuffCount>	
     <building>
       <fixedStorageSettings>
         <filter>
@@ -1829,7 +1849,7 @@
       <li>Metallic</li>
       <li>Stony</li>		  
     </stuffCategories>
-    <costStuffCount>50</costStuffCount>	
+    <costStuffCount>1000</costStuffCount>	
     <building>
       <fixedStorageSettings>
         <filter>
@@ -1877,7 +1897,7 @@
       <li>Metallic</li>
       <li>Stony</li>		  
     </stuffCategories>
-    <costStuffCount>50</costStuffCount>	
+    <costStuffCount>1000</costStuffCount>	
     <comps>
       <li Class="LWM.DeepStorage.Properties" >
         <minNumberStacks>2</minNumberStacks>

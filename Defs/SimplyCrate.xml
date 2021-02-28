@@ -31,15 +31,6 @@
     <building>
       <preventDeteriorationOnTop>true</preventDeteriorationOnTop>
       <ignoreStoredThingsBeauty>true</ignoreStoredThingsBeauty>
-      <!--<fixedStorageSettings>
-        <priority>Important</priority>
-        <filter>
-          <categories>
-            <li>Weapons</li>
-            <li>Artifacts</li>
-          </categories>
-        </filter>
-      </fixedStorageSettings> -->
       <defaultStorageSettings>
         <priority>Low</priority>
         <filter>
@@ -62,7 +53,7 @@
   <ThingDef ParentName="LWM_DeepStorage" >
     <defName>JDS_Wooden_Crate_Two</defName>
     <label>Crate A2</label>
-    <description>An open box of wooden slats or a usually wooden protective case or framework for shipping</description>
+    <description>An open box of wooden slats or a usually wooden protective case or framework for shipping</description>	
     <graphicData>
       <texPath>Things/WoodenCrate2/WoodenCrate2</texPath>
       <graphicClass>Graphic_Multi</graphicClass>
@@ -118,7 +109,7 @@
   <ThingDef ParentName="LWM_DeepStorage" >
     <defName>JDS_Wooden_Crate_Three</defName>
     <label>Crate A3</label>
-    <description>An open box of wooden slats or a usually wooden protective case or framework for shipping</description>
+    <description>An open box of wooden slats or a usually wooden protective case or framework for shipping</description>	
     <graphicData>
       <texPath>Things/WoodenCrate3/WoodenLargeCrate</texPath>
       <graphicClass>Graphic_Multi</graphicClass>
@@ -174,7 +165,7 @@
   <ThingDef ParentName="LWM_DeepStorage" >
     <defName>JDS_Wooden_Crate_four</defName>
     <label>Crate A4</label>
-    <description>An open box of wooden slats or a usually wooden protective case or framework for shipping</description>
+    <description>An open box of wooden slats or a usually wooden protective case or framework for shipping</description>	
     <graphicData>
       <texPath>Things/WoodenCrate4/WoodenCrate4</texPath>
       <graphicClass>Graphic_Multi</graphicClass>
@@ -230,7 +221,7 @@
   <ThingDef ParentName="LWM_DeepStorage" >
     <defName>JDS_Wooden_Crate_B</defName>
     <label>Crate B</label>
-    <description>An open box of wooden slats or a usually wooden protective case or framework for shipping</description>
+    <description>An open box of wooden slats or a usually wooden protective case or framework for shipping</description>	
     <graphicData>
       <texPath>Things/WoodenCrate/Crate_B</texPath>
       <graphicClass>Graphic_Multi</graphicClass>
