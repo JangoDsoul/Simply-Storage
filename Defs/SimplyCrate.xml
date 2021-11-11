@@ -1743,7 +1743,7 @@
     </researchPrerequisites>	
   </ThingDef> 
   
-  	<!-- ==================== Ammo Box A ==================== -->  
+  	<!-- ==================== Ammo Box A ==================== -->
   
   <ThingDef ParentName="LWM_DeepStorage" >
     <defName>JDSAmmo_BoxA</defName>
