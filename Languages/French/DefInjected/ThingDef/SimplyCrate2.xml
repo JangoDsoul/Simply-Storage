@@ -1,0 +1,190 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+    <!-- ==================== Basket ==================== -->
+
+    <JDS_Basket.label>Panier</JDS_Basket.label>
+
+    <!-- ==================== Bulk Water ==================== -->
+
+    <JDS_Bulk_Water.label>Grand récipient pour vrac</JDS_Bulk_Water.label>
+
+    <!-- ==================== Bundles Wrap ==================== -->
+
+    <JDS_Bundles_Wrap.label>Sac de jute</JDS_Bundles_Wrap.label>
+
+    <!-- ==================== Bundles Wrap Big ==================== -->
+
+    <JDS_Bundles_Wrap_Big.label>Grand sac de jute</JDS_Bundles_Wrap_Big.label>
+
+    <!-- ==================== Bundles Wrap Pile ==================== -->
+
+    <JDS_Bundles_Wrap_Pile.label>Sacs de jute empilés</JDS_Bundles_Wrap_Pile.label>
+
+    <!-- ==================== Chemfuel Pump ==================== -->
+
+    <JDS_ChemfuelPump.label>Pompe à chemfuel</JDS_ChemfuelPump.label>
+
+    <!-- ==================== Chemfuel Storage ==================== -->
+
+    <JDS_Chemfuel_Storage.label>Citerne de chemfuel</JDS_Chemfuel_Storage.label>
+
+    <!-- ==================== Large Chemfuel Storage ==================== -->
+
+    <JDS_Large_Chemfuel_Storage.label>Grande citerne de chemfuel</JDS_Large_Chemfuel_Storage.label>
+
+    <!-- ==================== Large Pallet ==================== -->
+
+    <JDS_Large_Pallet.label>Grande palette</JDS_Large_Pallet.label>
+
+    <!-- ==================== Large Can Pallet ==================== -->
+
+    <JDS_Large_Can_Pallet.label>Grande palette de fûts</JDS_Large_Can_Pallet.label>
+
+    <!-- ==================== Large Pallet A ==================== -->
+
+    <JDS_Large_A_Pallet.label>Grande palette A</JDS_Large_A_Pallet.label>
+
+    <!-- ==================== Large Pallet B ==================== -->
+
+    <JDS_Large_B_Pallet.label>Grande palette B</JDS_Large_B_Pallet.label>
+
+    <!-- ==================== Large Pallet C ==================== -->
+
+    <JDS_Large_C_Pallet.label>Grande palette C</JDS_Large_C_Pallet.label>
+
+    <!-- ==================== Large Pallet D ==================== -->
+
+    <JDS_Large_D_Pallet.label>Grande palette D</JDS_Large_D_Pallet.label>
+
+    <!-- ==================== Large Pallet E ==================== -->
+
+    <JDS_Large_E_Pallet.label>Grande palette E</JDS_Large_E_Pallet.label>
+
+    <!-- ==================== Large Post Box ==================== -->
+
+    <JDS_Large_Post_Box.label>Grandes boîtes postales</JDS_Large_Post_Box.label>
+
+    <!-- ==================== Med Storage ==================== -->
+
+    <JDS_Med_Storage.label>Pharmacie</JDS_Med_Storage.label>
+
+    <!-- ==================== Metal Shelf A Full ==================== -->
+
+    <JDSMetal_Shelf_A_Full.label>Étagères en métal (pleine)</JDSMetal_Shelf_A_Full.label>
+
+    <!-- ==================== Metal Shelf B Full ==================== -->
+
+    <JDSMetal_Shelf_B_Full.label>Casier en métal (plein)</JDSMetal_Shelf_B_Full.label>
+
+    <!-- ==================== Pallet ==================== -->
+
+    <JDSPallet.label>Palette</JDSPallet.label>
+
+    <!-- ==================== Pallet ==================== -->
+
+    <JDSPallet_Can.label>Palette de fûts</JDSPallet_Can.label>
+
+    <!-- ==================== Pallet Box ==================== -->
+
+    <JDSPallet_Crate.label>Palette de boîtes</JDSPallet_Crate.label>
+
+    <!-- ==================== Safe ==================== -->
+
+    <JDSSafe.label>Coffre-fort</JDSSafe.label>
+
+    <!-- ==================== Shelf A Empty ==================== -->
+
+    <JDSShelf_A_Empty.label>Étagères (vides)</JDSShelf_A_Empty.label>
+
+    <!-- ==================== Shelf A Full ==================== -->
+
+    <JDSShelf_A_Full.label>Étagères (pleines)</JDSShelf_A_Full.label>
+
+    <!-- ==================== Silo ==================== -->
+
+    <JDSSilo.label>Silo</JDSSilo.label>
+
+    <!-- ==================== Smaller locker ==================== -->
+
+    <JDSmaller_locker.label>Casier vestiaire (petit)</JDSmaller_locker.label>
+
+    <!-- ==================== large locker ==================== -->
+
+    <JDSLarge_locker.label>Casier vestiaire (grand)</JDSLarge_locker.label>
+
+    <!-- ==================== Vending Machine ==================== -->
+
+    <JDSVending_Machine.label>Distributeur automatique A</JDSVending_Machine.label>
+
+    <!-- ==================== Vending Machine 2 ==================== -->
+
+    <JDSVending_Machine_two.label>Distributeur automatique B</JDSVending_Machine_two.label>
+
+    <!-- ==================== wheelbarrow ==================== -->
+
+    <JDSwheelbarrow.label>Brouette</JDSwheelbarrow.label>
+
+    <!-- ==================== ResourcesCrate1 ==================== -->
+
+    <JDS_1ResourcesCrate.label>Caisse (bois)</JDS_1ResourcesCrate.label>
+    <JDS_1ResourcesCrate.description>Peut stocker jusqu'à 10 de bois</JDS_1ResourcesCrate.description>
+
+    <!-- ==================== ResourcesCrate2 ==================== -->
+
+    <JDS_2ResourcesCrate.label>Caisse (acier)</JDS_2ResourcesCrate.label>
+    <JDS_2ResourcesCrate.description>Peut stocker jusqu'à 10 d'acier</JDS_2ResourcesCrate.description>
+
+    <!-- ==================== ResourcesCrate3 ==================== -->
+
+    <JDS_3ResourcesCrate.label>Caisse (textiles)</JDS_3ResourcesCrate.label>
+    <JDS_3ResourcesCrate.description>Peut stocker jusqu'à 10 de textiles</JDS_3ResourcesCrate.description>
+
+    <!-- ==================== ResourcesCrate4 ==================== -->
+
+    <JDS_4ResourcesCrate.label>Caisse (cuirs)</JDS_4ResourcesCrate.label>
+    <JDS_4ResourcesCrate.description>Peut stocker jusqu'à 10 de cuirs</JDS_4ResourcesCrate.description>
+
+    <!-- ==================== ResourcesCrate5 ==================== -->
+
+    <JDS_5ResourcesCrate.label>Caisse (composants)</JDS_5ResourcesCrate.label>
+    <JDS_5ResourcesCrate.description>Peut stocker jusqu'à 10 composants</JDS_5ResourcesCrate.description>
+
+    <!-- ==================== ResourcesCrate6 ==================== -->
+
+    <JDS_6ResourcesCrate.label>Caisse (composants avancés)</JDS_6ResourcesCrate.label>
+    <JDS_6ResourcesCrate.description>Peut stocker jusqu'à 10 composants avancés</JDS_6ResourcesCrate.description>
+
+    <!-- ==================== ResourcesCrate7 ==================== -->
+
+    <JDS_7ResourcesCrate.label>Caisse (uranium)</JDS_7ResourcesCrate.label>
+    <JDS_7ResourcesCrate.description>Peut stocker jusqu'à 10 d'uranium</JDS_7ResourcesCrate.description>
+
+    <!-- ==================== ResourcesCrate8 ==================== -->
+
+    <JDS_8ResourcesCrate.label>Caisse (or)</JDS_8ResourcesCrate.label>
+    <JDS_8ResourcesCrate.description>Peut stocker jusqu'à 10 d'or</JDS_8ResourcesCrate.description>
+
+    <!-- ==================== ResourcesCrate9 ==================== -->
+
+    <JDS_9ResourcesCrate.label>Caisse (jade)</JDS_9ResourcesCrate.label>
+    <JDS_9ResourcesCrate.description>Peut stocker jusqu'à 10 de jade</JDS_9ResourcesCrate.description>
+
+    <!-- ==================== ResourcesCrate10 ==================== -->
+
+    <JDS_10ResourcesCrate.label>Caisse (plastacier)</JDS_10ResourcesCrate.label>
+    <JDS_10ResourcesCrate.description>Peut stocker jusqu'à 10 de plastacier</JDS_10ResourcesCrate.description>
+
+    <!-- ==================== Industrial Dumpster (chunks) ==================== -->
+
+    <JDS_Industrial_Dumpster_Chunk.label>Benne (morceaux)</JDS_Industrial_Dumpster_Chunk.label>
+
+    <!-- ==================== Industrial Dumpster (slags) ==================== -->
+
+    <JDS_Industrial_Dumpster_Slag.label>Benne (débris d'acier)</JDS_Industrial_Dumpster_Slag.label>
+
+    <!-- ==================== Industrial Dumpster ==================== -->
+
+    <JDSIndustrial_Dumpster.label>Benne</JDSIndustrial_Dumpster.label>
+
+</LanguageData>

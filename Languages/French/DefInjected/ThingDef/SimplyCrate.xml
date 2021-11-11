@@ -1,0 +1,161 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+    <!-- ==================== Wooden Crates ==================== -->
+
+    <JDS_Wooden_Crate.label>Caisse A</JDS_Wooden_Crate.label>
+    <JDS_Wooden_Crate.description>Une boîte constituée d'une structure et de lattes en bois, prévue pour le transport.</JDS_Wooden_Crate.description>
+
+    <!-- ==================== Wooden Crates 2 ==================== -->
+
+    <JDS_Wooden_Crate_Two.label>Caisses A2</JDS_Wooden_Crate_Two.label>
+    <JDS_Wooden_Crate_Two.description>Des boîtes empilées, constituées d'une structure et de lattes en bois, prévues pour le transport.</JDS_Wooden_Crate_Two.description>
+
+    <!-- ==================== Wooden Crates 3 ==================== -->
+
+    <JDS_Wooden_Crate_Three.label>Caisses A3</JDS_Wooden_Crate_Three.label>
+    <JDS_Wooden_Crate_Three.description>Des boîtes empilées, constituées d'une structure et de lattes en bois, prévues pour le transport.</JDS_Wooden_Crate_Three.description>
+
+    <!-- ==================== Wooden Crates 4 ==================== -->
+
+    <JDS_Wooden_Crate_four.label>Caisses A4</JDS_Wooden_Crate_four.label>
+    <JDS_Wooden_Crate_four.description>Des boîtes empilées, constituées d'une structure et de lattes en bois, prévues pour le transport.</JDS_Wooden_Crate_four.description>
+
+    <!-- ==================== Wooden Crates B ==================== -->
+
+    <JDS_Wooden_Crate_B.label>Caisses B</JDS_Wooden_Crate_B.label>
+    <JDS_Wooden_Crate_B.description>Des boîtes empilées, constituées d'une structure et de lattes en bois, prévues pour le transport.</JDS_Wooden_Crate_B.description>
+
+    <!-- ==================== Wooden Crates C ==================== -->
+
+    <JDS_Wooden_Crate_C.label>Caisses C</JDS_Wooden_Crate_C.label>
+    <JDS_Wooden_Crate_C.description>Des boîtes empilées, constituées d'une structure et de lattes en bois, prévues pour le transport.</JDS_Wooden_Crate_C.description>
+
+    <!-- ==================== Wooden Crates Large ==================== -->
+
+    <JDS_Wooden_Crate_Large.label>Caisse large</JDS_Wooden_Crate_Large.label>
+    <JDS_Wooden_Crate_Large.description>Une caisse en bois de haute contenance afin de stocker en sécurité beaucoup d'objets.</JDS_Wooden_Crate_Large.description>
+
+    <!-- ==================== Wooden Barrel ==================== -->
+
+    <JDS_Wooden_Barrel.label>Tonneau</JDS_Wooden_Barrel.label>
+
+    <!-- ==================== Wooden Barrel Pile ==================== -->
+
+    <JDS_Wooden_Barrel_Pile.label>Tonneaux empilés</JDS_Wooden_Barrel_Pile.label>
+
+    <!-- ==================== Metal Crates  ==================== -->
+
+    <JDS_Metal_Crate.label>Caisse en métal</JDS_Metal_Crate.label>
+    <JDS_Metal_Crate.description>Une caisse de haute contenance afin de stocker en sécurité beaucoup d'objets. Ces derniers ne se détérioreront pas, même en extérieur.</JDS_Metal_Crate.description>
+
+    <!-- ==================== Metal Crates Pile ==================== -->
+
+    <JDS_Metal_Crate_Pile.label>Caisses en métal empilées (moyen)</JDS_Metal_Crate_Pile.label>
+    <JDS_Metal_Crate_Pile.description>Des caisses de hautes contenances afin de stocker en sécurité beaucoup d'objets. Ces derniers ne se détérioreront pas, même en extérieur.</JDS_Metal_Crate_Pile.description>
+
+    <!-- ==================== Metal Crates Small Pile ==================== -->
+
+    <JDS_Metal_Crate_Small_Pile.label>Caisses en métal empilées (petit)</JDS_Metal_Crate_Small_Pile.label>
+    <JDS_Metal_Crate_Small_Pile.description>Des caisses de hautes contenances afin de stocker en sécurité beaucoup d'objets. Ces derniers ne se détérioreront pas, même en extérieur.</JDS_Metal_Crate_Small_Pile.description>
+
+    <!-- ==================== Metal Crates Bigger Pile ==================== -->
+
+    <JDS_Metal_Crate_Bigger_Pile.label>Caisses en métal empilées (grand)</JDS_Metal_Crate_Bigger_Pile.label>
+    <JDS_Metal_Crate_Bigger_Pile.description>Des caisses de hautes contenances afin de stocker en sécurité beaucoup d'objets. Ces derniers ne se détérioreront pas, même en extérieur.</JDS_Metal_Crate_Bigger_Pile.description>
+
+    <!-- ==================== Military Grade Crate Small ==================== -->
+
+    <JDSMilitaryGradeCrateSmall.label>Caisse militaire (petite)</JDSMilitaryGradeCrateSmall.label>
+    <JDSMilitaryGradeCrateSmall.description>Une petite caisse militaire pour stocker des armes et plein d'autres choses.</JDSMilitaryGradeCrateSmall.description>
+
+    <!-- ==================== Military Grade Crate Small Pile ==================== -->
+
+    <JDSMilitary_Grade_Crate_Small_Pile.label>Caisses militaires empilées (petites)</JDSMilitary_Grade_Crate_Small_Pile.label>
+    <JDSMilitary_Grade_Crate_Small_Pile.description>Des petites caisses militaires pour stocker des armes et plein d'autres choses.</JDSMilitary_Grade_Crate_Small_Pile.description>
+
+    <!-- ==================== Military Grade Crate Long ==================== -->
+
+    <JDSMilitary_Grade_Crate_Long.label>Caisse militaire (longue)</JDSMilitary_Grade_Crate_Long.label>
+    <JDSMilitary_Grade_Crate_Long.description>Une longue caisse militaire pour stocker des armes et plein d'autres choses.</JDSMilitary_Grade_Crate_Long.description>
+
+    <!-- ==================== Military Grade Crate Large ==================== -->
+
+    <JDSMilitary_Grade_crate_Large.label>Caisse militaire (profonde)</JDSMilitary_Grade_crate_Large.label>
+    <JDSMilitary_Grade_crate_Large.description>Une caisse militaire profonde pour stocker des armes et plein d'autres choses.</JDSMilitary_Grade_crate_Large.description>
+
+    <!-- ==================== Shipping Container Red ==================== -->
+
+    <JDSShippingContainerRed.label>Conteneur rouge</JDSShippingContainerRed.label>
+    <JDSShippingContainerRed.description>Caisson métallique dont la résistance est adaptée pour résister au voyage, au stockage et à la manutention.</JDSShippingContainerRed.description>
+
+    <!-- ==================== Shipping Container Blue ==================== -->
+
+    <JDSShippingContainerBlue.label>Conteneur rouge</JDSShippingContainerBlue.label>
+    <JDSShippingContainerBlue.description>Caisson métallique dont la résistance est adaptée pour résister au voyage, au stockage et à la manutention.</JDSShippingContainerBlue.description>
+
+    <!-- ==================== Shipping Container Green ==================== -->
+
+    <JDSShippingContainerGreen.label>Conteneur rouge</JDSShippingContainerGreen.label>
+    <JDSShippingContainerGreen.description>Caisson métallique dont la résistance est adaptée pour résister au voyage, au stockage et à la manutention.</JDSShippingContainerGreen.description>
+
+    <!-- ==================== Tool Box ==================== -->
+
+    <JDSTool_Box.label>Boîte à outils</JDSTool_Box.label>
+
+    <!-- ==================== Beer Crate ==================== -->
+
+    <JDSBeer_Crate.label>Caisse à bières</JDSBeer_Crate.label>
+    <JDSBeer_Crate.description>Caisse sur une palette.</JDSBeer_Crate.description>
+
+    <!-- ==================== PalletBox ==================== -->
+
+    <JDSPallet_Box.label>Palette de cartons</JDSPallet_Box.label>
+    <JDSPallet_Box.description>Boîtes en carton sur une palette.</JDSPallet_Box.description>
+
+    <!-- ==================== Pallet Container ==================== -->
+
+    <JDSPallet_Container.label>Palette de rétention</JDSPallet_Container.label>
+    <JDSPallet_Container.description>Fûts sur une palette en métal, pour sceller des choses.</JDSPallet_Container.description>
+
+    <!-- ==================== Metal Shelf A ==================== -->
+
+    <JDSMetal_Shelf_A.label>Étagères en métal (vide)</JDSMetal_Shelf_A.label>
+
+    <!-- ==================== Metal Shelf B ==================== -->
+
+    <JDSMetal_Shelf_B.label>Casier en métal (vide)</JDSMetal_Shelf_B.label>
+
+    <!-- ==================== Industrial shelf (Full) ==================== -->
+
+    <JDSMetal_Shelf_B.label>Rayonnage (plein)</JDSMetal_Shelf_B.label>
+
+    <!-- ==================== Industrial shelf (empty) ==================== -->
+
+    <JDSIndustrial_shelf_empty.label>Rayonnage (vide)</JDSIndustrial_shelf_empty.label>
+
+    <!-- ==================== Bank Vault ==================== -->
+
+    <JDSBank_Vault.label>Coffre de banque</JDSBank_Vault.label>
+
+    <!-- ==================== Ammo Box A ==================== -->
+
+    <JDSAmmo_BoxA.label>Boîte à munitions</JDSAmmo_BoxA.label>
+
+    <!-- ==================== Ammo Box B ==================== -->
+
+    <JDSAmmo_BoxB.label>Boîtes à munitions</JDSAmmo_BoxB.label>
+
+    <!-- ==================== Ammo Box C ==================== -->
+
+    <JDSAmmo_BoxC.label>Boîtes à munitions empilées</JDSAmmo_BoxC.label>
+
+    <!-- ==================== Ammo Crate ==================== -->
+
+    <JDSAmmo_Crate.label>Caisse à munitions</JDSAmmo_Crate.label>
+
+    <!-- ==================== Ammo Crate Piles ==================== -->
+
+    <JDSAmmo_Crate_Piles.label>Caisses à munitions empilées</JDSAmmo_Crate_Piles.label>
+
+</LanguageData>
