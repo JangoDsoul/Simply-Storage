@@ -1,0 +1,89 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<Defs>	
+
+  <DesignatorDropdownGroupDef>
+  	<defName>Bundles_DropdownDef</defName>
+  	<label>Bundles</label>
+  </DesignatorDropdownGroupDef>
+
+  <DesignatorDropdownGroupDef>
+  	<defName>Burlap_Sack_DropdownDef</defName>
+  	<label>Burlap Sack</label>
+  </DesignatorDropdownGroupDef>
+
+  <DesignatorDropdownGroupDef>
+  	<defName>Cardboard_Box_DropdownDef</defName>
+  	<label>Cardboard Box</label>
+  </DesignatorDropdownGroupDef>
+
+  <DesignatorDropdownGroupDef>
+  	<defName>Cargo_Case_DropdownDef</defName>
+  	<label>Cargo Case</label>
+  </DesignatorDropdownGroupDef>
+
+  <DesignatorDropdownGroupDef>
+    <defName>Cargo_Container_DropdownDef</defName>
+    <label>Cargo_Container</label>
+  </DesignatorDropdownGroupDef>
+
+  <DesignatorDropdownGroupDef>
+   	<defName>Crate_DropdownDef</defName>
+   	<label>Crate</label>
+  </DesignatorDropdownGroupDef>
+
+  <DesignatorDropdownGroupDef>
+   	<defName>Locker_DropdownDef</defName>
+   	<label>Locker</label>
+  </DesignatorDropdownGroupDef>
+
+  <DesignatorDropdownGroupDef>
+   	<defName>Hay_Bales_DropdownDef</defName>
+   	<label>Hay Bales</label>
+  </DesignatorDropdownGroupDef>
+
+  <DesignatorDropdownGroupDef>
+  	<defName>Industrial_Shelf_DropdownDef</defName>
+  	<label>Industrial Shelf</label>
+  </DesignatorDropdownGroupDef>
+	
+  <DesignatorDropdownGroupDef>
+  	<defName>Industrial_Tanker_DropdownDef</defName>
+  	<label>Industrial Tanker</label>
+  </DesignatorDropdownGroupDef>
+
+  <DesignatorDropdownGroupDef>
+    <defName>Metal_Barrel_DropdownDef</defName>
+    <label>Metal Barrel</label>
+  </DesignatorDropdownGroupDef>
+
+  <DesignatorDropdownGroupDef>
+    <defName>Metal_Crate_DropdownDef</defName>
+    <label>Metal Crate</label>
+  </DesignatorDropdownGroupDef>
+
+  <DesignatorDropdownGroupDef>
+    <defName>Pallet_DropdownDef</defName>
+    <label>Pallet</label>
+  </DesignatorDropdownGroupDef>
+
+  <DesignatorDropdownGroupDef>
+    <defName>Plastic_DropdownDef</defName>
+    <label>Plastic</label>
+  </DesignatorDropdownGroupDef>
+
+  <DesignatorDropdownGroupDef>
+    <defName>Pot_DropdownDef</defName>
+    <label>Pot</label>
+  </DesignatorDropdownGroupDef>
+
+  <DesignatorDropdownGroupDef>
+    <defName>Weapon_Cabinets_DropdownDef</defName>
+    <label>Weapon Cabinets</label>
+  </DesignatorDropdownGroupDef>
+
+  <DesignatorDropdownGroupDef>
+    <defName>Wooden_Barrel_DropdownDef</defName>
+    <label>Wooden Barrel</label>
+  </DesignatorDropdownGroupDef>
+
+</Defs>	
